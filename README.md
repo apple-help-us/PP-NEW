@@ -5,15 +5,7 @@
 	
 	
 	
-	<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8PTC03H48R"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-8PTC03H48R');
-</script>
 	
 	
 	
@@ -140,6 +132,8 @@ flexibility(document.documentElement);
 			<a class="elementor-button elementor-button-link elementor-size-md" href="tel:+1-888-479-6555">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Call Now</span>
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-text">1-888-479-6555</span>
 		</span>
