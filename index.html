@@ -140,6 +140,7 @@ flexibility(document.documentElement);
 			<a class="elementor-button elementor-button-link elementor-size-md" href="tel:+1-888-479-6555">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Call Now</span>
+<span class="elementor-button-content-wrapper">
 <span class="elementor-button-text">1-888-479-6555</span>
 		</span>
 					</a>
